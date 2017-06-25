@@ -1,0 +1,56 @@
+.head a {
+    float: right;
+    padding: 10px;
+    font-family: Fantasy;
+    font-size: 18px;
+    color: lightgrey;
+    text-decoration: none;
+}
+.head a:hover {
+    color: coral;
+}
+.head .logo
+{
+    float: left;
+    font-size: 28px;
+    color: coral;
+}
+.mainJR {
+    width: 100%;
+    height: auto;
+}
+.container-fluid {
+    margin: 10px 230px 10px 230px;
+}
+.image_row img{
+    width: 132px;
+    height: 132px;
+    margin: 5px;
+}
+.horizont div {
+    float: left;
+    margin: 15px 35px 15px 35px;
+}
+.horizont h4 {
+    color: coral;
+}
+.horizont a {
+    background-color: coral;
+    font-size: large;
+    text-decoration: none;
+    color: #fff;
+    padding: 5px;
+}
+.outer.mainJR {
+    position: relative;
+}
+.inner {
+    background-color: bisque;
+    position: absolute;
+    opacity: 0.7;
+    overflow: hidden;
+    margin-top: 390px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    padding: 2px;
+}
